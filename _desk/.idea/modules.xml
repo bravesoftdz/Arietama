@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArietemaDesktop.iml" filepath="$PROJECT_DIR$/ArietemaDesktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArietamaDesktop.iml" filepath="$PROJECT_DIR$/ArietamaDesktop.iml" />
     </modules>
   </component>
 </project>
