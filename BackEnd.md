@@ -1,7 +1,7 @@
 # BackEnd
 
 ## Colaboradores
-- [@RafaelGomides](https://github.com/RafaelGomides}
+- [@RafaelGomides](https://github.com/RafaelGomides)
 
 ## Resumo 
 
