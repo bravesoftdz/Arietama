@@ -1,0 +1,12 @@
+# FrontEnd
+
+O desenvolvedor front-end é responsável por "dar vida" à interface. Trabalha com a parte da aplicação que interage diretamente com o usuário. Por isso, é importante que esse desenvolvedor também se preocupe com a experiência do usuário.
+Na parte de estudo, este profissional foca em HTML (linguagem de marcação), CSS (linguagem de estilo) e JavaScript (linguagem de script/programação).
+
+Para CSS e JavaScript há bibliotecas e frameworks que alguns profissionais se especializam como: Angular, VueJS, Bootstrap, Sass, etc.
+
+Nos últimos anos, esta área também viu a introdução de outras linguagens e pseudo-linguagens, como TypeScript e CoffeeScript, que podem ser utilizadas de acordo com as necessidades da aplicação.
+
+Caso esteja interessado em ingressar nesta área, um estudo complementar como teoria das cores e design gráfico, podem ser diferenciais.
+
+É comum alguns profissionais de front-end trabalharem mais com a parte "criativa" e "artística" da aplicação. Assim como também há os que possuem um perfil mais voltado ao back-end, mesmo atuando como front-end. Esses possuem mais familiaridade com programação e suas nuances. Um tipo de perfil não invalida o outro.
