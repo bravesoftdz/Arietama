@@ -1,4 +1,12 @@
 # BackEnd
-Como o nome sugere, o desenvolvedor back-end trabalha na parte de "tr·s" da aplicaÁ„o. Ele È o respons·vel, em termos gerais, pela implementaÁ„o da regra de negÛcio.
-Em uma aplicaÁ„o web, este desenvolvedor, quando focado, n„o toca na parte visual da aplicaÁ„o. Por lidar com a regra de negÛcio, as vezes um programador de sistemas, como de aplicaÁıes comerciais e atÈ cientÌficas, pode ser chamado de desenvolvedor back-end. E geralmente, nessas aplicaÁıes, este desenvolvedor trabalha um pouco com a parte visual. Por isso, para este artigo, o desenvolvedor back-end levado em conta, È o desenvolvedor de aplicaÁıes web.
-Quando falamos de back-end em desenvolvimento web, nos deparamos com v·rias linguagens, como Go, Clojure, C#, PHP, Java, Python, Ruby, entre outras. Cada uma possui vantagens e desvantagens em relaÁ„o ao uso no desenvolvimento web, bem como no mercado de trabalho.
+Como o nome sugere, o desenvolvedor back-end trabalha na parte de "tr√°s" da aplica√ß√£o. Ele √© o respons√°vel, em termos gerais, pela implementa√ß√£o da regra de neg√≥cio.
+
+Em uma aplica√ß√£o web, este desenvolvedor, quando focado, n√£o toca na parte visual da aplica√ß√£o. Por lidar com a regra de neg√≥cio, as vezes um programador de sistemas, como de aplica√ß√µes comerciais e at√© cient√≠ficas, pode ser chamado de desenvolvedor back-end. E geralmente, nessas aplica√ß√µes, este desenvolvedor trabalha um pouco com a parte visual. Por isso, para este artigo, o desenvolvedor back-end levado em conta, √© o desenvolvedor de aplica√ß√µes web.
+
+Quando falamos de back-end em desenvolvimento web, nos deparamos com v√°rias linguagens, como Go, Clojure, C#, PHP, Java, Python, Ruby, entre outras. Cada uma possui vantagens e desvantagens em rela√ß√£o ao uso no desenvolvimento web, bem como no mercado de trabalho.
+
+Algumas linguagens s√£o mais atuais e com poucos profissionais no mercado. Desta forma, h√° uma grande demanda por elas (ex: Go e Clojure). Outras s√£o mais tradicionais, fazem parte de um mercado j√° consolidado e possuem uma grande gama de material de estudo (ex: C#, PHP, Java e Ruby).
+
+Para quem est√° iniciando, √© recomend√°vel focar nas linguagens mais tradicionais, pois o aprendizado ser√° mais completo, dado o n√∫mero extenso de materiais dispon√≠veis. Isso tamb√©m facilitar√° o posicionamento no mercado de trabalho, j√° que essas linguagens possuem mais oportunidades de emprego dispon√≠veis.
+
+Para que o aprendizado em back-end seja ainda mais completo, √© preciso ter conhecimento em banco de dados (ex: MySQL, SQL Server, PostgreSQL, entre outros). Normalmente o banco de dados √© escolhido com base no que possuir mais recursos dispon√≠veis na linguagem que ser√° utilizada na aplica√ß√£o.
