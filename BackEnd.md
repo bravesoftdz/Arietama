@@ -2,6 +2,7 @@
 
 ## Colaboradores
 - [@RafaelGomides](https://github.com/RafaelGomides)
+- [Bryan]
 
 ## Resumo 
 
